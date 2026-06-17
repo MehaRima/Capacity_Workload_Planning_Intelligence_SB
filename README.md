@@ -56,6 +56,9 @@ If optional columns are missing, the app creates usable defaults.
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## Streamlit implementation
+
+Link: https://capacity-workload-planning-sb.streamlit.app/
 
 ## Project Fit
 
